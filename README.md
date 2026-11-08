@@ -26,4 +26,16 @@ Observation: Optimal equilibrium at 23 BP.
 
 ## Research
 Preprint: DNA Geometry and Cosmic Equilibrium Constants
-Author: Suryakanta Jana, Durgapur
+Author: Suryakanta Jana, purba Medinipur 
+## 📄 Published Research
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23090994
+**Title:** DNA Geometry and Cosmic Equilibrium Continuum: A 9/5 Fractal Model Bridging 10 pN AFM Validation and Galaxy Rotation
+
+**Stats:** 18 Views, 12 Downloads (as of today)
+**Central Equation:** v^4 = 2 G_eff(λ) P(λ) with α ≈ 1.075
+
+> This thesis demonstrates a unified structural law connecting B-DNA (10^-9 m) and galactic halos (10^21 m) via a 9/5 fractal dimension (D=1.8).
+
+## 🔗 Links
+- Paper: https://doi.org/10.5281/zenodo.23090994
+- Code: This Repository (jana_dna_simulation.py)
